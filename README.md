@@ -1,4 +1,4 @@
-# RemoteContorl-Car
+# RemoteControl-Car
 
 Open-Source Project allow you to DIY an remote-car which can be controled via BLE4.0 on your phone
 
@@ -19,14 +19,16 @@ If you have any question about this project, code or app, please feel free to co
 ## hardware
 
 All the things you need is listed below:
+
 | ID        | Module           | Description  | Quantity  |
-| ------------- |:-------------:| -----:|-----:|
+| :------------- |:-------------:| -----:|-----:|
 | 1 | CC2541 | BLE4.0 3.3V| 1 |
 | 2 |   App   |  Android App | 1|
 | 3 | L298N | Motor Drivers | 1|
 | 4 | L2596 |  DC-DC Converter, 12V-->3.3V| 1 |
 | 5 | Car model |  an low-cost platform with two DC-motor | 1 |
 | 6 | Li-ion battery |  Car Power, >= 7.2V | 1 |
+
 
 
 ## begin DIY
