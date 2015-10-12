@@ -33,7 +33,7 @@ All the things you need is listed below:
 
 ## begin DIY
 
-please read `\Doc` Document
+please read [\Doc](https://github.com/cedar-renjun/RemoteContorl-Car/blob/master/Doc/%E8%93%9D%E7%89%99%E9%81%A5%E6%8E%A7%E8%BD%A6%E7%BB%84%E8%A3%85%E6%89%8B%E5%86%8C.pdf) Document
 
 
 ## author
